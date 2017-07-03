@@ -24,4 +24,5 @@ so **k|n**
  Clearly, if *h* and *k* are elements of *H* then *x+h = x+k* implies *h=k* hence the elements in *x+H* are in bijection with the elements of *H*
  
  Thus, the cosets partition *G* and each member of the partition has the same cardinality, equal to the order of *H*
- Q.E.Q
+ 
+ Q.E.D.
